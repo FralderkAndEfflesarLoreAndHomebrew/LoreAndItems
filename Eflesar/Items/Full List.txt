@@ -1,0 +1,505 @@
+1. Tyrant sword
+hit: -1
+dmg: d10-1/d12-1
+Successful attacks inflict bleeding. Bleeding enemies loose 1d4 hp at the start of their turns (provided it is logical, e.g. skeletons won’t bleed), until they or their allies succeed in a medicine check, DC = 8+Your SM + PB (+1 if wearing Tyrant Chestplate). Medicine check takes a turn.
+
+Terrible swords like this were once used by Lifrean dynasty, serving as somewhat of a royal symbol. This sword is unnecessary curved with a lot of spikes, and a funny centre of mass. This makes it rather difficult to use, however countless spikes inflict brutal wounds and do a very good job at intimidating enemies.
+
++1 to intimidation checks
+
+Synergies: 
++1 to DC if wearing Tyrant Chestplate
++1 to hit throws if wearing Tyrant Ring
++1 to hit, -2 to damage for every Harper’s item
+
+
+
+2. Tyrant glaive 
+hit: +0
+dmg: 1d10
+distance: 10-20 feet. (Can’t attack up close)
+Successful attacks allow you to cast dominate person, as a bonus action upon the target. The target makes the saving throw with an advantage. If you are a spellcasting class, you use your spell DC, if you aren’t, the DC = 8+Your CM + PB
+
+This unusually long glaive, is yet another relic from the ages, when Hewardia was ruled by Lifrean dynasty. While it may serm too long to use in close quarters, it has a unique ability to break into people’s mind, and control them.
+
+Synergies: 
++1 to DC if wearing Tyrant Chestplate
+If wearing Tyrant ring, you are able to cast Detect thoughts instead of Dominate person. In that case, target doesn’t roll with advantage.
++1 to hit, -2 to damage for every Harper’s item
+
+
+
+
+3. Tyrant Chestplate
+AC: 14+DM (2 max)
+Nearby (within five feet of you) allies have advantages on all their attack throws, but each attack deals one more damage to them.
+
+Rumours tell that guards of Lifrean dynasty were always incredibly skilled, but didn’t live long. I wonder why that is.
+
+Synergies:
++1 to AC if wearing Tyrant Ring
+-6 to AC, +1 to AC of nearby allies if wearing any Harper’s item
+
+
+
+4. Tyrant Ring
+
+Initially this ring was nothing but a symbol, signifying the cruel rule of Lifrean dynasty. But as it is known magic loves symbolism, and now this ring empowers other powerful items of the dynasty.
+
+
+
+
+5. Konrad’s might
+Can be any weapon (Chosen randomly)
+If enemies AC is more than 17, it’s considered 17 for attacks with this weapon.
+
+A powerful brand of weapons from a faraway land.
+
+
+
+6. Ring of fallen star.
+
+Choose amount of weapons from this list equal to your PB. Those weapons will have a higher chance of dropping. If a weapon is marked as legendary, it takes 3 slots.
+
+While this ring doesn’t really make your wishes come true, it does bring them closer to reality! 
+
+
+
+
+7. Harper’s sword.
+hit: +4
+dmg: -1
+
+King Harper was quite fond of light, almost rapier-like swords. They may not strike hard, but they strike true.
+
+Synergies:
++1 to dmg, -2 to hit, for every Tyrant item.
+If you have Harper’s ring, and haven’t attacked on your turn, you can deflect 1 enemy attack, using a reaction.
+Gives +1 to damage, if you have Harper’s Sandals, and moved at least 20 feet in a straight line towards your target before attacking.
+
+
+
+8. Harper’s ring.
+Functions as a shield, but still allows the use of second hand. e.g. you can use a two handed weapon, and still retain the +2 AC bonus. You can’t stack it with a regular shield.
+
+As a gift from thankful country king Harper I received a magical ring, capable of turning into a shield in the manner of seconds.
+
+Synergies:
+If you have Harper’s Sandals, an enemy attacks you, and there’s a free tile behind you, you can add +2 to your AC for your attack, and move onto that tile. This movement doesn’t cause opportunity attack from the enemy you’ve used it against, but may cause them for other foes.
+If you have any Tyrant item, AC bonus is reduced to +1.
+
+
+
+
+9. Harper’s Sandals
+-1 to AC if you are wearing medium or heavy armour.
++5 to speed.
+
+They may look simple, but they allowed Harper I, to travel all across Hewardia.
+
+Synergies: 
+If you have all other  Harper’s items, you can walk on water. Please note, that Sandals won’t protect you from waves and/or sea predators.
+
+
+
+
+10. Harper’s Crown
++1 to AC if you are not wearing armour. You can still use unarmoured defence, from barbarian or monk classes.
+
+Help can be used as a bonus action rather than an action.
+
+Synergies:
+If you have other Harper’s items, you can spend both an action and a bonus action, to use Help, but it will give additional bonuses, depending on which item you have. If you have multiple, you may choose the bonus.
+Harper’s sword:
++1 to hit, if the help is used for an attack.
+Harper’s ring:
++1 to AC till the end of your next turn.
+Harper’s boots:
++5 to speed till the end of your next turn.
+
+
+
+Gems
+
+Used for crafting. Capable of turning regular weapons into weapons from this list. Note that not everything is craftable.
+
+Onyx:
+A black crystal, capable of managing magic’s flow.
+
+Drops:
+50% from a regular enemy.
+
+0-2 gems from a strong enemy
+
+3-7 from a boss/miniboss
+Price:
+20 gold a piece.
+
+Petrified mithril:
+If a shard of mithril, lays untouched for long enough, it gets imbued with magic, loosing its hardness, but gaining other useful properties.
+
+Drops:
+20% from a regular enemy.
+
+50% from a strong enemy
+
+1-2 from a boss/miniboss
+
+
+Arachnosteel:
+A powerful material, made by long forgotten civilisation. Interesting how they made this wonder, but couldn’t differentiate minerals and metals.
+
+Drops:
+0% from a regular enemy.
+
+10% from a strong enemy.
+
+25% from a miniboss.
+
+60% from a boss.
+
+Despite being very rare, in some places it can be found in big amounts.
+
+Torium:
+A wave of sickness radiates from this pink stone.
+
+Drops:
+5% from a regular enemy or strong enemy
+
+90% from a miniboss
+
+2-3 from a boss.
+
+
+
+11. Archmages wand
++3 to cantrips DC and hit.
+
+This wand is often used by powerful mages of Hewardia to make weak spells more reliable. It is so heavily decorated with gold carvings that it starts to slowly resemble a sceptre.
+
+
+
+12. Arcane wave medallion.
+
+Allows usage of strengthened versions of spells of first level or higher. Strengthened spell costs two spell slots of the original spell’s level, and heals/deals 50% more hp/damage. (rnd down)
+
+This medallion was made by the Archmage Sinitar to use against the orcs, during the war in which they were banished. This medallion allowed Sinitar to harvest more of his energy for his spells, and crush an entire batallions of orcs! Sinitar died in the first ten minutes of the battle, having exhausted all pf his power.
+
+Synergies:
+If you have Archmages wand, you can also use strengthened cantrips. Strengthened cantrips use both an action and a bonus action, and only receive +2 bonus from the wand not +3.
+
+
+
+13. Spirital cloak.
+Gives wearer one resistance to a type pf physical damage, but he also receives one weakness to magical type of damage. The wearer chooses the resistance and the weakness at the end of long rest.
+
+Synergies:
+If you have arcane wave medallion it allows you to use the dash action as a bonus action once per short rest.
+
+
+
+14. Manic dagger
+hit: +1
+dmg: +0
+
+This dagger allows usage of charisma/wisdom/intelligence instead of strength/dexterity.
+
+This dagger was created by a powerful sorceress Sorbet, who was always afraid of running out of spells. Later she died trying to fight undead. Investigation shows she didn’t use a single spell.
+
+
+
+15. Bow of the Forest Guardian
+hit:+0
+dmg:+0
+Ignores half cover and three quarters cover
+You can voluntarily roll attack with disadvantage. In that case the dmg is increased by 10. This stacks with sharpshooter feat.
+
+What can be said? Elves make good bows.
+
+Synergies:
+Infinite arrows with cloak of regrowth
+
+
+
+16. Arrowgrinder (Mace)
+hit: +0
+dmg: +0
+
+Elves only use elegant weapons they said!don’t fear permanent brain damage they said!
+
+Synergies:
+Deals additional 1d6 for every arrow stuck from Bow of the Forest Gurdian.
+
+17. Cloak of Regrowth (Legendary)
+You recover 3 hp at the beginning of each turn.
+
+This cloak pulses with lively power, bringing vitality to its user. 
+
+
+
+
+18. Unremarkable dagger
+hit: +0
+dmg: +0
+
+This seemingly regular dagger once belonged to a legendary elven hero. It still remembers those days.
+
+Synergies:
++2 to hit against targets hit by the bow of the forest guardian.
++2 to damage against targets hit by the Arrowgrinder
++2 poison damage with cloak of regrowth
+
+
+
+
+19. Stargazers ring
+Rounding always works in wearers favour
+e.g. if wearer hits a skeleton for 3 damage, and skeleton has resistance to slashing damage, normally the attack would deal 1 dmg, but this time will deal two.
+
+He counted the stars, now the stars count for him.
+
+
+
+20. Executioners axe (Legendary)
+hit:+2
+dmg:+6
+
+If attack is rolled with advantage, the damage is rolled with advantage as well.
+
+None could survive the legendary wrath.
+
+
+
+21. Triton’s diadem
+
+Gives swimming speed equal to walking speed.
+
+Lake elves didn’t really meet tritons, did they?
+
+Synergies: 
+Your attacks ignore pierce resistance if you have Trident of Storms
++1 to AC with Nautilus shell medallion
+Ability to see through depths of water with Dirael’s gloves.
+
+
+22. Trident of Storms
+hit: +0
+dmg: +0
+Guaranteed hit if the target is submerged in water.
+
+And then she said: “Its trident of storming time!”, and trident of stormed all over place.
+
+Synergies:
+You can cast “lightning” as a 3 level spell, once per long rest.
+You can choose to deal bludgeoning damage instead of piercing if you have Nautilus shell medallion.
++2 to damage and hit with Dirael’s gloves.
+
+
+
+
+23. Nautilus shell medallion
+Gives user incredible hearing.
+
+Sea’s beauty brought to decorate settlements among the woods.
+
+Synergies:
++1 AC with Triton’s diadem
+Ignores lightning resistance if paired with Trident of Storm.
++2 to stealth checks if paired with Dirael’s gloves.
+
+
+
+24. Dirael’s gloves
+
+Deals 1d4 bludgeoning or slashing damage and can turn invisible.
+
+They confiscated her weapons after trident of storm incident…
+
+Synergies:
+Turns lightning immunity into lightning resistance with Nautilus shell medallion.
+Gives +2 to insight with Triton’s diadem.
+
+
+
+25. Honour sword (Legendary)
+hit: +3
+dmg: +3
+Gives +3 to hit and dmg when your opponent is a lot stronger than you. 
+
+Never give up. Even when all odds are against you.
+
+Synergies:
++1 damage with Honour armor
++1 hit with Honour boots
++1 to hit and damage with Honour gloves
+
+
+26. Honour armor
+AC: 19
+You are unable to use rogue’s sneak attack, or knock the weapon out of your enemy’s hand.
+
+It restricts your movement just enough to not let you fight cheaply.
+
+Synergies:
+-2 to deception +2 to hit with Honour sword.
+-2 to stealth, resistance to radiation with Honour boots
+-2 to sleight of hand, resistance to poison with Honour gloves.
+
+
+27. Honour boots
+Immunity to effects moving you against your will. -5 speed.
+
+Elven honour code doesn’t tolerate cowardice. 
+
+Synergies: 
+Climbing speed of +5 feet with Honour sword
++2 to acrobatics with Honour armor
+Climbing speed of +10 feet with Honour gloves
+
+
+
+28. Honour gloves
+You can use an action to let out claws of honour, with a very loud sound. Claws of honour deal d8 damage.
+
+Elven heart won’t find peace until justice is served.
+
+Synergies:
+Honour gloves deal d10 damage if user touched honour sword within the last 24 hours.
+Honour gloves have +1 to hit, with honour armor.
+Honour gloves have +1 to hit with honour boots.
+
+
+
+29. Mithril axe
+hit: +2
+damage: +2
+Your attacks can’t have advantage anymore. Also if you have a condition there you have a disagreement, and would normally have an advantage, disadvantage isn’t cancelled.
+
+Who needs strategy, when you have a good weapon.
+
+Synergies:
++1 damage with Mithril armour
++1 hit with Mithril Gloves
++1 damage with Mithril Shield
+
+
+30. Mithril armour
+AC: 18
+-5 speed, you can’t use opportunity attacks
+
+It may be heavy, but it protects well.
+
+Synergies:
++1 AC with Mithril Axe
++1 AC with Mithril Gloves
++1 AC with Mithril Shield
+
+
+
+31. Mithril gloves
++1 to hit, dmg and AC. Your attacks can’t crit anymore 
+
+Stability is good? Right?
+
+Synergies:
+Your attacks can’t crit fail with mithril axe
+Enemies can’t crit against you with mithril armour, but can’t crit fail either.
+
+
+
+32. Mithril Shield
++1 to AC
+
+Block all the fun with this spiked shield!
+
+Synergy:
+Enemies attacking you take 1d4 damage for every other Mithril item.
+
+
+
+
+34. Arbalista (Heavy crossbow)
+hit: +0
+dmg: +10
+
+Are you sure this thing is hand held?
+
+Synergies:
+hit +2 with Heavy gauntlets
+dmg +2 with Heavy Amulet
+
+
+35. Grand Hammer
+hit: +1
+dmg: +3
+Dazes enemies. Dazed enemies can’t react until the end of your next turn.
+
+Also known as “The flattener”.
+
+Synergies: 
+dmg +2 with heavy gauntlets
+Daze lasts two turns with heavy amulet
+
+
+
+36. Heavy gauntlets
++2 AC, -2 melee hit, +1 melee damage
+
+Good luck lifting your hands in these ones.
+
+Synergies:
++1 melee hit with Heavy amulet
+
+
+
+37. Heavy amulet
+-5 speed, improves (vuln->null->res->imm) physical resistances.
+
+Are you sure you want to put this on your neck?
+
+Synergies:
+Allows you to cast Stone Shape once a long rest with Heavy Gauntlets.
+
+
+
+
+38. Mimicward (cloak)
+Improves resistance to bludgeoning, piercing and acid damage.
+
+A good day not to be eaten.
+
+
+
+
+39. Steampunk boots
+Gears turn and screech as you walk.
+
+Synergies:
++10 speed with full set.
+
+
+
+40. Steampunk armor 
+18 AC
+And people say dwarves aren’t talented…
+
+Synergies:
+With full set: +2 to all non magic hit and dmg.
++1 to AC with steampunk helmet
+
+
+
+41. Steampunk helmet
+And then he got so angry steam started coming out of his ears!
+
+Synergies:
+With full set: allows casting “Pyrotechnics” twice every short rest.
+
+
+
+42. Steampunk gloves
+Adorned with gold.
+
+Synergies:
++1 to all non magic hit and dmg with full set.
++1 to AC with steampunk armour
